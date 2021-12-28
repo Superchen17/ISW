@@ -1,6 +1,8 @@
 # Web Server for Project 'Imaging through Water' #
 This project showcases a novel image stablization algorithm, which aims to remove distortion caused by water refraction.
 
+<img src="./images/demo.jpg" alt="demo" width="70%">
+
 ## System Requirements
 Linux system with npm 6+ and Python 3.8+
 
